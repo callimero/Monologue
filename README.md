@@ -10,4 +10,4 @@ For the patches I include a .wav and a image showing the parameters for the Mono
 ![Example Image for Parameters](https://github.com/callimero/Monologue/blob/master/patches/3rd%20OSC.jpg)
 
 
-This is done with the fine plgin monoctrl from https://github.com/Blokatt/FX4Reaper/tree/master/monoctrl
+This is done with the fine Reaper DAW (https://www.reaper.fm/) plugin monoctrl from https://github.com/Blokatt/FX4Reaper/tree/master/monoctrl
