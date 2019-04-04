@@ -7,6 +7,7 @@ in /patches you find my patches as single .molgprog files. In /libraries I put c
 
 For the patches I include a .wav and a image showing the parameters for the Monologue. 
 
-https://github.com/callimero/Monologue/blob/master/patches/3rd%20OSC.jpg
+![Example Image for Parameters](https://github.com/callimero/Monologue/blob/master/patches/3rd%20OSC.jpg)
+
 
 This is done with the fine plgin monoctrl from https://github.com/Blokatt/FX4Reaper/tree/master/monoctrl
