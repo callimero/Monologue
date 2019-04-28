@@ -11,3 +11,5 @@ For the patches I include a .wav and a image showing the parameters for the Mono
 
 
 This is done with the fine Reaper DAW (https://www.reaper.fm/) plugin monoctrl from https://github.com/Blokatt/FX4Reaper/tree/master/monoctrl
+
+https://www.youtube.com/watch?v=R9axjXEHsoI
